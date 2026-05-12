@@ -2,7 +2,7 @@
 
 Middle Infrastructure / Operations Engineer.
 
-Настраиваю и сопровождаю VPS-инфраструктуру для Telegram-ботов, mini apps, VPN и веб-сервисов.
+Настраиваю и сопровождаю VPS-инфраструктуру для Telegram-ботов, mini apps и веб-сервисов.
 
 ## Что закрываю
 
@@ -27,9 +27,8 @@ Middle Infrastructure / Operations Engineer.
 
 ## Портфолио
 
-- Infrastructure operations portfolio: https://github.com/steam9steam-prog/infrastructure-operations-portfolio
+- Портфолио по инфраструктуре и operations: https://github.com/steam9steam-prog/infrastructure-operations-portfolio
 
 ## Контакт
 
 Контакт лучше писать через GitHub или по рабочему каналу, который указан в профиле.
-
