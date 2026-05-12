@@ -27,7 +27,7 @@ Middle Infrastructure / Operations Engineer.
 
 ## Портфолио
 
-- Портфолио по инфраструктуре и operations: https://github.com/steam9steam-prog/infrastructure-operations-portfolio
+- Портфолио по инфраструктуре и эксплуатации: https://github.com/steam9steam-prog/infrastructure-operations-portfolio
 
 ## Контакт
 
