@@ -1,21 +1,28 @@
-# Steams DevOps
+# Stepan Dolgikh / Steams DevOps
 
-Middle Infrastructure / Operations Engineer.
+Infrastructure / Operations Engineer focused on small production platforms.
 
-Настраиваю и сопровождаю VPS-инфраструктуру для Telegram-ботов, mini apps и веб-сервисов.
+I build and operate VPS-based service infrastructure: Linux, Docker Compose,
+nginx, PostgreSQL, systemd, Prometheus/Grafana, logs, backups, deploy flows,
+post-deploy checks, and incident diagnostics.
 
-## Что закрываю
+My practical work comes from running a live access/VPN service with active
+users. The system includes a public website, Telegram interface, admin panel,
+backend/control service, PostgreSQL, nginx gateway, systemd/Docker services,
+payment/webhook flows, monitoring, and operational runbooks.
 
-- VPS setup и подготовка сервера к деплою
-- Docker / Docker Compose deployment
-- nginx reverse proxy и SSL
-- PostgreSQL setup, backup и restore
-- systemd services
-- Grafana / Prometheus monitoring
-- логи, диагностика падений и разбор инцидентов
-- сопровождение Telegram-ботов, mini apps и веб-сервисов
+## What I Work On
 
-## Стек
+- VPS and Linux server preparation
+- Docker Compose and systemd deployments
+- nginx reverse proxy, SSL, routing, and private endpoints
+- PostgreSQL setup, backup, restore, and operational checks
+- Prometheus/Grafana monitoring and alerting examples
+- Health checks, smoke tests, logs, and post-deploy validation
+- Incident diagnostics and practical runbooks
+- Telegram, web, crypto, and payment-adjacent service infrastructure
+
+## Stack
 
 - Linux / VPS
 - Docker / Docker Compose
@@ -23,12 +30,19 @@ Middle Infrastructure / Operations Engineer.
 - PostgreSQL
 - systemd / journalctl
 - Prometheus / Grafana
-- Git / GitHub
+- Python / FastAPI basics
+- Bash
+- Git / GitHub Actions
 
-## Портфолио
+## Portfolio
 
-- Портфолио по инфраструктуре и эксплуатации: https://github.com/steam9steam-prog/infrastructure-operations-portfolio
+- Production infrastructure and operations portfolio:
+  https://github.com/steam9steam-prog/infrastructure-operations-portfolio
 
-## Контакт
+## Work Interests
 
-Контакт лучше писать через GitHub или по рабочему каналу, который указан в профиле.
+Remote contractor work in Web3, crypto, iGaming, Telegram products, payment
+flows, and infrastructure-heavy startups.
+
+Preferred payment: USDT/USDC. Telegram Wallet and EVM wallet available on
+request.
