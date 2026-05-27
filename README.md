@@ -1,15 +1,15 @@
 # Stepan Dolgikh / Steams DevOps
 
-Infrastructure / Operations Engineer focused on small production platforms.
+Middle Infrastructure / DevOps Engineer.
 
-I build and operate VPS-based service infrastructure: Linux, Docker Compose,
-nginx, PostgreSQL, systemd, Prometheus/Grafana, logs, backups, deploy flows,
+I run VPS-based production infrastructure: Linux, Docker Compose, nginx,
+PostgreSQL, systemd, Prometheus/Grafana, logs, backups, deploy flows,
 post-deploy checks, and incident diagnostics.
 
-My practical work comes from running a live access service with active
-users. The system includes a public website, user-facing integration, admin panel,
-backend/control service, PostgreSQL, nginx gateway, systemd/Docker services,
-payment/webhook flows, monitoring, and operational runbooks.
+The main case behind my portfolio is a live access service with active users.
+It includes a public website, user-facing integration, admin panel,
+backend/control service, payment and webhook flows, PostgreSQL, nginx gateway,
+systemd/Docker services, monitoring, and operational runbooks.
 
 ## What I Work On
 
@@ -30,7 +30,7 @@ payment/webhook flows, monitoring, and operational runbooks.
 - PostgreSQL
 - systemd / journalctl
 - Prometheus / Grafana
-- Python / FastAPI basics
+- Python / FastAPI
 - Bash
 - Git / GitHub Actions
 
