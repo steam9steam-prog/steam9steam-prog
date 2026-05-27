@@ -2,20 +2,20 @@
 
 Middle Infrastructure / DevOps Engineer.
 
-I run VPS-based production infrastructure: Linux, Docker Compose, nginx,
+I run VPS-based production infrastructure: Linux, Docker Compose, Caddy/nginx,
 PostgreSQL, systemd, Prometheus/Grafana, logs, backups, deploy flows,
 post-deploy checks, and incident diagnostics.
 
 The main case behind my portfolio is a live access service with active users.
 It includes a public website, user-facing integration, admin panel,
-backend/control service, payment and webhook flows, PostgreSQL, nginx gateway,
+backend/control service, payment and webhook flows, PostgreSQL, Caddy/nginx gateway,
 systemd/Docker services, monitoring, and operational runbooks.
 
 ## What I Work On
 
 - VPS and Linux server preparation
 - Docker Compose and systemd deployments
-- nginx reverse proxy, SSL, routing, and private endpoints
+- Caddy/nginx reverse proxy, SSL, routing, and private endpoints
 - PostgreSQL setup, backup, restore, and operational checks
 - Prometheus/Grafana monitoring and alerting examples
 - Health checks, smoke tests, logs, and post-deploy validation
@@ -26,7 +26,7 @@ systemd/Docker services, monitoring, and operational runbooks.
 
 - Linux / VPS
 - Docker / Docker Compose
-- nginx / SSL
+- Caddy / nginx / SSL
 - PostgreSQL
 - systemd / journalctl
 - Prometheus / Grafana
