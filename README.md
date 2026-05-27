@@ -6,8 +6,8 @@ I build and operate VPS-based service infrastructure: Linux, Docker Compose,
 nginx, PostgreSQL, systemd, Prometheus/Grafana, logs, backups, deploy flows,
 post-deploy checks, and incident diagnostics.
 
-My practical work comes from running a live access/VPN service with active
-users. The system includes a public website, Telegram interface, admin panel,
+My practical work comes from running a live access service with active
+users. The system includes a public website, user-facing integration, admin panel,
 backend/control service, PostgreSQL, nginx gateway, systemd/Docker services,
 payment/webhook flows, monitoring, and operational runbooks.
 
@@ -20,7 +20,7 @@ payment/webhook flows, monitoring, and operational runbooks.
 - Prometheus/Grafana monitoring and alerting examples
 - Health checks, smoke tests, logs, and post-deploy validation
 - Incident diagnostics and practical runbooks
-- Telegram, web, crypto, and payment-adjacent service infrastructure
+- Web, crypto, payment, and messaging-adjacent service infrastructure
 
 ## Stack
 
@@ -41,8 +41,8 @@ payment/webhook flows, monitoring, and operational runbooks.
 
 ## Work Interests
 
-Remote contractor work in Web3, crypto, iGaming, Telegram products, payment
-flows, and infrastructure-heavy startups.
+Remote contractor work in Web3, crypto, iGaming, payment flows, messaging
+integrations, and infrastructure-heavy startups.
 
 Preferred payment: USDT/USDC. Telegram Wallet and EVM wallet available on
 request.
